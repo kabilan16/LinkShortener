@@ -1,0 +1,15 @@
+1. Download the linkshort.py file
+2. Open cmd
+3. cd to the location where linkshort.py is downloaded
+4. Make sure you have the latest version of pip, if not then upgrade it
+   For example: C:\Python39\python.exe -m pip install --upgrade pip
+   this upgrades to the latest version
+5. Now install the requests library using 
+   py -m pip install requests
+6. Run the file using
+   py linkshort.py
+7. Either manually type the URL you want to shorten or paste it using right mouse button
+8. The shortened URL(if a valid URL was entered) will be generated and you can copy paste the link in your desired browser!
+
+
+THANK YOU!
